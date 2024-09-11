@@ -1,0 +1,4 @@
+fastapi
+prisma
+pyttsx3
+PyPDF2
